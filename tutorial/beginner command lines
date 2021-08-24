@@ -1,0 +1,27 @@
+let heading = document.firstElementChild.lastElementChild.firstElementChild;
+undefined
+
+
+heading
+<h1>​Hello​</h1>​
+
+
+heading.innerHTML = "Fuck"
+"Fuck"
+
+
+heading.style.color = "Yellow";
+"Yellow"
+
+
+heading.style.margin = "30px";
+"30px"
+
+
+
+heading.style.border = "3px solid black";
+"3px solid black"
+
+
+document.querySelector("input").click();
+undefined
